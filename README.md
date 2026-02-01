@@ -67,3 +67,4 @@ Future Work:
 1.Integrate Streamlit or Flask web app for interactive predictions.
 2.Improve accuracy using transfer learning (e.g., using pre-trained models like VGG16, ResNet50).
 3.Add multi-class detection (different pneumonia types).
+
